@@ -1,0 +1,12 @@
+1 - savol 
+LOH bu NET da katta obyektlar saqlanadigan joy. 85 KB dan katta obyektlar shu yerga tushadi
+masalan katta fayllar bilan ishlasa image, video.
+
+2 - savol
+Stream bu baytlar ketma-ketligi malumotlar oqimi bilan ishlash uchun ishlatiladi abstraksiya bolib, 
+malumotlarni fayllar, xotira yoki tarmoqdan yaxshiroq oqish va yozish imkonini beradi va 
+malumotlarni xotiraga toliq yuklamasdan qismlarga bolib qayta ishlashga yordam beradi.
+
+3 - savol
+Extension metod bu mavjud klass yoki interfeys kodini ozgartirmasdan unga yangi metod qoshish imkonini beruvchi maxsus metod.
+Ular static klass ichida yoziladi va birinchi parametri oldida this kalit sozi boladi.
